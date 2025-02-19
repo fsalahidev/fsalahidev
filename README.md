@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Fatima!
 
 I'm an aspiring Python developer passionate about data science, automation, and software development. Currently, I'm building my skills in Python by working on projects and sharing my learning journey.
 
